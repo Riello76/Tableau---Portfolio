@@ -26,15 +26,7 @@ This project visualizes employment and industry data for the UK using **Tableau*
 - Highlights regional variations in job distribution.
 - Provides a historical view of city-level employment trends.
 
-## Usage
+## Screenshot
 
-- Open the provided Excel file in Tableau to recreate or explore dashboards.
-- Use filters and interactive elements in Tableau to analyze trends by industry, sub-industry, and city.
-- Ideal for workforce analysis, economic studies, and visualization practice.
-
-## File Information
-
-- **Dataset Filename:** `EMSI_UK_Data.xlsx`
-- **Format:** Excel (.xlsx)
-- **Contents:** Employment and industry data by city, industry, sub-industry, and year (2014).
+<img width="1920" height="886" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/04046242-2a81-4088-bafb-ae63a0d83c3e" />
 
