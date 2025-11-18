@@ -24,8 +24,5 @@ This Tableau project provides visual insights into global health data. The datas
    - Breaks down population statistics by gender.
    - Useful for understanding gender distribution globally.
 
-## Key Insights
-
-- Highlights differences in life expectancy across continents and countries.
-- Shows potential relationships between BMI and life expectancy.
-- Provides demographic insights including population trends and gender distribution.
+## Screenshot
+<img width="1886" height="956" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/ca942fd8-2772-47cd-8487-8fe262a01685" />
