@@ -1,32 +1,50 @@
-# Data & Business Intelligence Portfolio
+# 📊 Data & Business Intelligence Portfolio
 
-This repository hosts a diverse collection of projects and resources demonstrating proficiency in Data Analysis, Business Intelligence (BI) tool usage, and Data Science methodologies. The structure is organized by specific project areas and supplementary learning materials.
+This repository hosts a **diverse collection of projects and resources** demonstrating proficiency in **Data Analysis**, **Business Intelligence (BI)**, and **Data Science methodologies**.  
+The structure is organized by **project areas** and **supplementary learning materials**.
 
-***
+---
 
-## 1. Repository Structure
+## 🗂 Repository Structure
 
-The core content is organized into distinct project folders and supporting documentation:
+Core content is organized into **distinct project folders** and supporting documentation:
 
 | Folder / File Name | Focus Area | Description |
 | :--- | :--- | :--- |
-| **Riello76** | Personal Project/Code | Contains various scripts or project components, often including personal contributions and specific development commits. |
-| **EMSI UK Dashboard** | Business Intelligence (BI) | A dedicated project showcasing skills in creating detailed dashboards for a specific domain (likely labor market or economic data, given "EMSI UK"). |
-| **Health_dataset** | Data Analysis | A project focused on analyzing a specific health-related dataset, covering cleaning, exploration, and insights generation. |
-| **Spotify** | Data Science/Analysis | Project centered around analyzing music data (e.g., track characteristics, user habits, or trends) from the Spotify platform. |
-| `Tableau_PowerBI_Workbook_Week_2 .docx` | Documentation/Learning | A supplementary workbook providing exercises, theory, and guidance for using **Tableau** and **Power BI** (specifically for Week 2 topics). |
+| **Riello76** | Personal Project / Code | Scripts, personal contributions, and specific development commits |
+| **EMSI UK Dashboard** | Business Intelligence (BI) | Detailed dashboards showcasing domain-specific analysis (e.g., labor market or economic data) |
+| **Health_dataset** | Data Analysis | Cleaning, exploration, and insight generation on a health-related dataset |
+| **Spotify** | Data Science / Analysis | Analysis of music data: track characteristics, user habits, and platform trends |
+| `Tableau_PowerBI_Workbook_Week_2 .docx` | Documentation / Learning | Workbook with exercises, theory, and guidance for Tableau & Power BI (Week 2 focus) |
 
-***
+---
 
-## 2. Key Skills Demonstrated
-
-This portfolio demonstrates proficiency across several critical areas:
+## 💡 Key Skills Demonstrated
 
 ### 📈 Business Intelligence & Visualization
-Projects like **EMSI UK Dashboard** show expertise in connecting to data sources and transforming raw information into interactive, visual dashboards using tools like Tableau or Power BI.
+- Connecting to data sources and transforming raw data into **interactive dashboards**  
+- Proficiency in **Tableau** and **Power BI**  
+- Domain-specific dashboards (e.g., EMSI UK labor market)
 
 ### 🔍 Data Analysis & Exploration
-Projects like **Health\_dataset** and **Spotify** demonstrate the ability to:
-1.  **Clean and Pre-process** raw data.
-2.  **Explore** data relationships and distributions.
-3.  **Derive actionable insights** and statistical summaries.
+- **Data Cleaning & Pre-processing:** Prepare datasets for analysis  
+- **Exploratory Data Analysis (EDA):** Discover relationships, patterns, and distributions  
+- **Insight Generation:** Produce actionable conclusions and statistical summaries  
+
+---
+
+## 🚀 How to Navigate
+
+For **detailed methodology, data sources, and results**, please refer to the **`README.md` inside each project folder**.
+
+---
+
+## 💬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspare-tocci/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Riello76)  
+📧 Email: [gaspare@example.com](mailto:gaspare@example.com)  
+
+---
+
+⭐ **Thanks for visiting this repository!**
