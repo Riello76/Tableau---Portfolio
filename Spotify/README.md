@@ -22,7 +22,8 @@ The dataset contains information on genre popularity, displayed through an **int
 
 ## 🖼 Screenshot
 
-<img width="1556" height="954" alt="Top 10 Spotify Genres Tableau Screenshot" src="https://github.com/user-attachments/assets/556eb27c-670e-4cb6-90f3-37de2e8f2d28" />
+<img width="1544" height="787" alt="image" src="https://github.com/user-attachments/assets/a63ea949-db7b-4ae6-9c2c-c25c78b68e51" />
+
 
 ---
 
@@ -44,5 +45,6 @@ The dataset contains information on genre popularity, displayed through an **int
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
 
