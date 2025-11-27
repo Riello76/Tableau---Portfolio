@@ -40,15 +40,6 @@ The dataset, provided in the accompanying Excel file, is used to create **intera
 
 ---
 
-## 🚀 How to Use
-
-1. Open the **Excel dataset** in Tableau Desktop  
-2. Explore or recreate the interactive dashboards  
-3. Analyze **employment trends by industry, sub-industry, and city**  
-4. Ideal for **data analysis, BI visualization, and reporting practice**  
-
----
-
 ## 💬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspare-tocci/)  
@@ -59,5 +50,6 @@ The dataset, provided in the accompanying Excel file, is used to create **intera
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
 
