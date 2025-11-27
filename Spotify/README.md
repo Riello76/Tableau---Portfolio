@@ -24,17 +24,8 @@ The dataset contains information on genre popularity, displayed through an **int
 
 <img width="1544" height="787" alt="image" src="https://github.com/user-attachments/assets/a63ea949-db7b-4ae6-9c2c-c25c78b68e51" />
 
-
 ---
 
-## 🚀 How to Use
-
-1. Open the **Spotify dataset** in Tableau Desktop  
-2. Explore or recreate the **interactive dashboard**  
-3. Analyze **genre popularity trends**  
-4. Ideal for **data visualization, BI practice, and music analytics**  
-
----
 
 ## 💬 Let’s Connect
 
@@ -45,6 +36,7 @@ The dataset contains information on genre popularity, displayed through an **int
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
 
 
