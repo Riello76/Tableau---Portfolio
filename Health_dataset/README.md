@@ -31,7 +31,7 @@ The dataset includes information on **life expectancy, population, BMI, and gend
 
 ## 🖼 Screenshot
 
-<img width="1886" height="956" alt="Global Health Insights Tableau Screenshot" src="https://github.com/user-attachments/assets/ca942fd8-2772-47cd-8487-8fe262a01685" />
+<img width="1828" height="767" alt="image" src="https://github.com/user-attachments/assets/43b5040a-534d-4776-a846-65e4c387839b" />
 
 ---
 
@@ -53,5 +53,6 @@ The dataset includes information on **life expectancy, population, BMI, and gend
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
 
