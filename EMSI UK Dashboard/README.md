@@ -35,7 +35,8 @@ The dataset, provided in the accompanying Excel file, is used to create **intera
 
 ## 🖼 Screenshot
 
-<img width="1920" height="886" alt="EMSI UK Tableau Dashboard Screenshot" src="https://github.com/user-attachments/assets/04046242-2a81-4088-bafb-ae63a0d83c3e" />
+<img width="1710" height="861" alt="image" src="https://github.com/user-attachments/assets/2d25ecdc-26c7-4264-bc67-e20c7280f75c" />
+
 
 ---
 
@@ -58,4 +59,5 @@ The dataset, provided in the accompanying Excel file, is used to create **intera
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
