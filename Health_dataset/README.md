@@ -35,15 +35,6 @@ The dataset includes information on **life expectancy, population, BMI, and gend
 
 ---
 
-## 🚀 How to Use
-
-1. Open the **Excel dataset** in Tableau Desktop  
-2. Explore or recreate the interactive dashboards  
-3. Analyze **global health indicators** by continent, country, BMI, and gender  
-4. Ideal for **data visualization, BI practice, and global health analytics**  
-
----
-
 ## 💬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspare-tocci/)  
@@ -53,6 +44,7 @@ The dataset includes information on **life expectancy, population, BMI, and gend
 ---
 
 ⭐ **Thanks for visiting this repository!**
+
 
 
 
